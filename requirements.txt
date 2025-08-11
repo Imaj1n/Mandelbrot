@@ -1,0 +1,7 @@
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.2
+numba==0.60.0
+numba-cuda==0.11.0
+numpy==2.0.2
+streamlit==1.48.0
